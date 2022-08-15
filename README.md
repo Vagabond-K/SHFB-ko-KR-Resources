@@ -7,7 +7,7 @@ Sandcastle을 이용하여 개인용 .NET 라이브러리의 문서를 만들 �
 
 
 ### 사용 방법
-1. Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\VS2013에 ko-KR 폴더를 생성합니다.
+1. Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\VS2013\Content에 ko-KR 폴더를 생성합니다.
 2. 생성한 폴더에 본 리포지토리의 VS2013 폴더에 있는 4개의 파일을 복사합니다.
 3. Sandcastle Help File Builder GUI로 프로젝트를 생성한 후, 'Presentation style'을 'VS2013'으로 설정합니다.
 4. 'Help file language'는 'Korean (Korea)'로 설정합니다.

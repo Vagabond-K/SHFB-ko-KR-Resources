@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content xml:space="preserve">
+
+	<!-- main window stuff -->
+	<item id="productTitle">.NET Framework Developer's Guide</item>
+
+	<!-- body -->
+
+	<!-- section titles -->
+	<item id="title_inThisSection">단원 내용</item>
+	<item id="title_buildInstructions">코드 컴파일</item>
+	<item id="title_nextSteps">다음 단계</item>
+	<item id="title_requirements">요구 사항</item>
+	<item id="title_relatedSections">관련 단원</item>
+	<item id="title_relatedTopics">관련 정보</item>
+	<item id="title_syntax">구문</item>
+	<item id="title_parameters">매개 변수</item>
+	<item id="title_returnValue">반환</item>
+  <item id="title_attributesAndElements">특성과 요소</item>
+	<item id="title_attributes">특성</item>
+	<item id="title_childElement">자식 요소</item>
+	<item id="title_parentElement">부모 요소</item>
+	<item id="title_elementInformation">요소 정보</item>
+  <item id="title_textValue">텍스트 값</item>
+  <item id="title_dotNetFrameworkEquivalent">.NET Framework Equivalent</item>
+  <item id="title_prerequisites">전제 조건</item>
+  <item id="title_robustProgramming">Robust Programming</item>
+	<item id="title_securitySection">보안</item>
+	<item id="title_externalResources">외부 리소스</item>
+	<item id="title_demonstrates">데모</item>
+  <item id="title_appliesTo">적용 대상</item>
+	<item id="title_conclusion">결론</item>
+  <item id="title_background">배경</item>
+	<item id="title_whatsNew">새로운 소식</item>
+  <item id="title_reference">참조</item>
+  <item id="title_errorMessage">오류 메시지</item>
+  <item id="title_example">예제</item>
+
+  <!-- autoOutline boilerplate -->
+  <item id="boilerplate_autoOutlineTopLevelIntro">이 항목에는 다음 섹션이 포함되어 있습니다:</item>
+	<item id="boilerplate_autoOutlineSubsectionIntro">이 섹션에는 다음 하위 섹션이 포함되어 있습니다:</item>
+
+  <!-- resolve the autoOutline token -->
+  <item id="autoOutline">
+    <autoOutline/>
+  </item>
+
+  <!-- Copyright notice. {0} = Copyright text, {1} = Year(s), {2} = Holder(s) -->
+  <item id="boilerplate_copyrightNotice"><p>{0} &#169;{1}{2}. All rights reserved.</p></item>
+
+  <!-- Glossary related entries -->
+  <item id="text_relatedEntries">추가 정보:</item>
+
+	<!-- Legacy content -->
+
+	<!-- values for MSHelp:Attr Name="TopicType" -->
+  <item id="meta_mshelp_topicType_developerConceptualDocument">kbArticle</item>
+  <item id="meta_mshelp_topicType_developerErrorMessageDocument">kbRef</item>
+  <item id="meta_mshelp_topicType_developerGlossaryDocument">kbRef</item>
+  <item id="meta_mshelp_topicType_developerHowToDocument">kbHowTo</item>
+  <item id="meta_mshelp_topicType_developerOrientationDocument">kbOrient</item>
+  <item id="meta_mshelp_topicType_developerReferenceWithSyntaxDocument">kbSyntax</item>
+  <item id="meta_mshelp_topicType_developerReferenceWithoutSyntaxDocument">kbRef</item>
+  <item id="meta_mshelp_topicType_developerSampleDocument">kbSampleProd</item>
+  <item id="meta_mshelp_topicType_developerSDKTechnologyOverviewArchitectureDocument">kbArticle</item>
+  <item id="meta_mshelp_topicType_developerSDKTechnologyOverviewCodeDirectoryDocument">kbOrient</item>
+  <item id="meta_mshelp_topicType_developerSDKTechnologyOverviewOrientationDocument">kbOrient</item>
+  <item id="meta_mshelp_topicType_developerSDKTechnologyOverviewScenariosDocument">kbHowTo</item>
+  <item id="meta_mshelp_topicType_developerSDKTechnologyOverviewTechnologySummaryDocument">kbRef</item>
+  <item id="meta_mshelp_topicType_developerTroubleshootingDocument">kbHowTo</item>
+  <item id="meta_mshelp_topicType_developerUIReferenceDocument">kbRef</item>
+  <item id="meta_mshelp_topicType_developerWalkthroughDocument">kbHowTo</item>
+  <item id="meta_mshelp_topicType_developerWhitePaperDocument">kbArticle</item>
+  <item id="meta_mshelp_topicType_developerXmlReference">kbSyntax</item>
+  <item id="meta_mshelp_topicType_ManagedReference">apiref</item>
+
+</content>
